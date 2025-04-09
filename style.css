@@ -92,6 +92,13 @@ body {
     text-transform: uppercase;
 }
 
+.contador{
+    font-size: 20px;
+    text-align: center;
+    color: #10533b;
+    font-style: 900;
+}
+
 @media screen and (min-width: 768px){
     .botoes{
         display: flex;
